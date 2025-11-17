@@ -1,8 +1,8 @@
-# Railway Reservation Management System
+# Railway Reservation System
 
 ## About
 
-This project is a **Railway-Reservation-Management-System** that allows users to easily view train schedules, search for trains, check seat availability, and manage bookings online. The system provides real-time fare information, train timings, and secure seat reservation options. Both users and administrators can interact with the system through separate functionalities, offering a smooth and secure experience for all.
+This project is a **Railway-Reservation-System** that allows users to easily view train schedules, search for trains, check seat availability, and manage bookings online. The system provides real-time fare information, train timings, and secure seat reservation options. Both users and administrators can interact with the system through separate functionalities, offering a smooth and secure experience for all.
 
 ### Key Features
 
